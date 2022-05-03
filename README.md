@@ -1,7 +1,7 @@
 # CoincidenceProcessor
 Preserving the RatCap software for posterity
 
-This is the coincidence processor that we used for the PET imaging data
+This is the coincidence processor that I wrote for the PET imaging data
 of the RatCap PET detector and its derivatives (the Breast Scanner, and the
 Plant Scanner). 
 
